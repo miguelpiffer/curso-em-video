@@ -1,0 +1,9 @@
+n1=int(input('digite um numero'))
+n2=int(input('digite outro numero'))
+s=n1+n2
+print('a soma vale {}!'.format(s))
+
+n3=float(input('digite um numero real'))
+n4=float(input('digite outro numero real'))
+sr=(n3+n4)
+print('a soma dos numeros reais vale:{}!'.format(sr))
